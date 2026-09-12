@@ -1,4 +1,4 @@
-2)
+
 a)
 
 Una distribución GNU/Linux es un conjunto de software formado por el kernel Linux, herramientas y bibliotecas GNU y otros programas, reunidos para proporcionar un sistema operativo completo.
