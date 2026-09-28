@@ -1,0 +1,22 @@
+3. Dado el siguiente lote procesos:
+
+Job Llegada Unidades de CPU
+1 0 4
+2 2 6
+3 3 4
+4 6 5
+5 8 2
+
+a. Realice los diagramas de Gantt según los siguientes algoritmos de
+scheduling:
+i. FCFS (First Come, First Served)
+ii. SJF (Shortest Job First)
+iii. Round Robin con quantum = 1
+iv. Round Robin con quantum = 6
+b. Para cada algoritmo calcule el TR y TE para cada job así como el TPR y el
+TPE.
+c. En base a los tiempos calculados compare los diferentes algoritmos.
+d. En el algoritmo Round Robin, qué conclusión se puede sacar con respecto
+al valor del quantum.
+e. ¿Para el algoritmo Round Robin, en qué casos utilizará un valor de
+quantum alto y qué ventajas y desventajas obtendría?
