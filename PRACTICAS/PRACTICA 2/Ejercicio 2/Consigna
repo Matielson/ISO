@@ -1,1 +1,21 @@
+2. Dado el siguiente lote de procesos en el que todos arriban al sistema en el
+instante 0 (cero):
 
+Job - Unidades de CPU
+1 - 7
+2 - 15
+3 - 12
+4 - 4
+5 - 9
+
+a. Realice los diagramas de Gantt según los siguientes algoritmos
+Página 1 de 11
+Conceptos de Sistemas Operativos (CSO)
+Introducción a los Sistemas Operativos (ISO)
+scheduling:
+i. FCFS (First Come, First Served)
+ii. SJF (Shortest Job First)
+iii. Round Robin con quantum = 4
+b. Para cada algoritmo calcule el TR y TE para cada job así como el TPR y el
+TPE.
+c. En base a los tiempos calculados compare los diferentes algoritmos.
